@@ -55,7 +55,7 @@ Provides a 'Start Game' button to begin the game
 
 Includes an 'End Round' button to control game rounds
 
-Android Host App: GitHub Repository https://www.github.com/Adam-Agbaria/NumbersGameAndroidApp
+Android Host App: GitHub Repository https://www.github.com/Adam-Agbaria/NumberGameAndroidApp
 
 
 4️⃣ Android Library
