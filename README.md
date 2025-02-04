@@ -64,7 +64,7 @@ Encapsulates server logic for easy integration into mobile apps
 
 Another Android app is included to demonstrate the library’s usage
 
-GitHub Repository www.https://github.com/Adam-Agbaria/NumbersGameLibrary
+GitHub Repository https://www.github.com/Adam-Agbaria/NumbersGameLibrary
 
 🚀 Getting Started
 
