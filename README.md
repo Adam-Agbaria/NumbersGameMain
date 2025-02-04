@@ -16,6 +16,8 @@ The player whose number is closest to this result wins the round.
 
 The game continues for multiple rounds, and the player with the most round wins is the overall winner.
 
+
+
 🛠️ Project Components
 
 1️⃣ Flask Server (Backend)
@@ -28,6 +30,8 @@ Stores results and tracks winners
 
 Provides REST API endpoints for the frontend and mobile app
 
+Flask Server (Backend): www.https://github.com/Adam-Agbaria/NumbersGameServerSDK
+
 2️⃣ Web Frontend (Game UI for Players)
 
 Players enter their name and game ID to join a game
@@ -37,6 +41,9 @@ Displays a waiting screen until the game starts
 Players submit numbers within a time limit
 
 Displays round results and the overall winner
+
+Web Frontend (Player UI): GitHub Repository www.https://github.com/Adam-Agbaria/NumbersGameWebApp
+
 
 3️⃣ Android Host App
 
@@ -48,11 +55,16 @@ Provides a 'Start Game' button to begin the game
 
 Includes an 'End Round' button to control game rounds
 
+Android Host App: GitHub Repository www.https://github.com/Adam-Agbaria/NumbersGameAndroidApp
+
+
 4️⃣ Android Library
 
 Encapsulates server logic for easy integration into mobile apps
 
 Another Android app is included to demonstrate the library’s usage
+
+GitHub Repository www.https://github.com/Adam-Agbaria/NumbersGameLibrary
 
 🚀 Getting Started
 
