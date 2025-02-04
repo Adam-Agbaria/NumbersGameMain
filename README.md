@@ -81,10 +81,6 @@ The Flask server is deployed on Vercel, update the URL in the frontend and mobil
 
 🌐 Web Frontend (Player UI)
 
-📌 Prerequisites
-
-Node.js & npm
-
 🔧 Setup
 
 cd frontend
