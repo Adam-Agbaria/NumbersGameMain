@@ -30,7 +30,7 @@ Stores results and tracks winners
 
 Provides REST API endpoints for the frontend and mobile app
 
-Flask Server (Backend): www.https://github.com/Adam-Agbaria/NumbersGameServerSDK
+Flask Server (Backend): https://www.github.com/Adam-Agbaria/NumbersGameServerSDK
 
 2️⃣ Web Frontend (Game UI for Players)
 
@@ -42,7 +42,7 @@ Players submit numbers within a time limit
 
 Displays round results and the overall winner
 
-Web Frontend (Player UI): GitHub Repository www.https://github.com/Adam-Agbaria/NumbersGameWebApp
+Web Frontend (Player UI): GitHub Repository https://www.github.com/Adam-Agbaria/NumbersGameWebApp
 
 
 3️⃣ Android Host App
@@ -55,7 +55,7 @@ Provides a 'Start Game' button to begin the game
 
 Includes an 'End Round' button to control game rounds
 
-Android Host App: GitHub Repository www.https://github.com/Adam-Agbaria/NumbersGameAndroidApp
+Android Host App: GitHub Repository https://www.github.com/Adam-Agbaria/NumbersGameAndroidApp
 
 
 4️⃣ Android Library
